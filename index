@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Chris Magesty - Developer & Software Engineer</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+
+<section>
+	<div class="row">
+		<div class="grid-100 page-title">
+			<h1>Chris Magesty</h1>
+			<span class="breakdance"></span>
+			<h2 class="description">Developer & Software Engineer</h2>
+		</div>
+	</div>
+</section>
+
+<div class="row">
+	<div class="grid-100">
+		<div class="header-img">
+			<img src="FullSizeRender.jpg" alt="Chris Magesty" />
+		</div>
+	</div>
+</div>
+
+<section>
+  <center><h1>Projects</h1></center>
+	<ul class="row thumbs">
+    <li class="grid-33">
+	      <a href="https://github.com/cmagesty" class="thumb-title">
+	        <img src="assets/github.png" alt="github propjects" />
+	        <h3>Github</h3>
+	      </a>
+	    </li>
+    <li class="grid-33">
+      <a href="#" class="thumb-title">
+        <img src="assets/diginode.png" alt="diginode" />
+        <h3>diginode</h3>
+      </a>
+    </li>
+	    <li class="grid-33">
+	      <a href="pullup" class="thumb-title">
+	        <img src="assets/pullupproject.png" alt="pullup" />
+	        <h3>pullup</h3>
+	      </a>
+	</ul>
+</section>
+
+<section>
+  <div class="row">
+    <center><h1>Languages</h1></center>
+	   <div class="grid-100">
+		     <div class="header-img">
+			        <img src="assets/languages.png" alt="languages" />
+		     </div>
+	   </div>
+  </div>
+</section>
+
+<section>
+	<ul class="row thumbs">
+    <li class="grid-33">
+	      <a href="#" class="thumb-title">
+	        <img src="assets/linkedin.png" alt="linked in" />
+	        <h3>linked in</h3>
+	      </a>
+	    </li>
+    <li class="grid-33">
+      <a href="mailto:cmagesty@gmail.com" class="thumb-title">
+        <img src="assets/email.png" alt="email" />
+        <h3>email</h3>
+      </a>
+    </li>
+	    <li class="grid-33">
+	      <a href="resume" class="thumb-title">
+	        <img src="assets/resume.png" alt="resume" />
+	        <h3>resume</h3>
+	      </a>
+	</ul>
+</section>
+
+<section>
+  <footer>
+    <div class="row">
+      <div class="grid-100">
+        <p>All Rights Reserved Chris Magesty &#169;</p>
+      </div>
+    </div>
+  </footer>
+</section>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</body>
+</html>
