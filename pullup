@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <title>Chris Magesty</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,300,900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+
+<section>
+  <h1>pullup</h1>
+  <div class="row work">
+    <div class="grid-50">
+      <h5>Role</h5>
+      <p>Software Engineer, COO, Co-Founder</p>
+      <h5>Date</h5>
+      <p>January 2017 - present</p>
+      <h5>Project Deliverable</h5>
+      <p>iOS App, Ruby on Rails website, python backend, mongoDB</p>
+    </div>
+
+    <div class="grid-50">
+      <h5>Project Overview</h5>
+      <p>Worked with a team of 3 other members to develop an iOS application and its database. The main languages used in the project were swift and python. We also used MongoDB for the database and added Redis and other frameworks to work with sockets and help with the development process. As development progressed we realized the value of the application and we decided to incorporate and so pullup Technologies, INC. was formed.</p>
+      <p>Below are some screen shots of the pullup. pullup is currently in apples testflight program and will be available in the app store early Septemeber. For more information: <a href="http://pullupapp.io" target="_blank">pullupapp.io</a></p>
+    </div>
+  </div>
+</section>
+
+  <div class="work">
+    <div class="work-img">
+        <img src="assets/Snip20170815_6.png" alt="">
+        <img src="assets/appStuff.png" alt="">
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="grid-100">
+      <a href="index" class="button">&larr; Back to all projects</a>
+    </div>
+  </div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+</body>
+</html>
