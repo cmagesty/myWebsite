@@ -31,7 +31,7 @@
   <center><h1>Projects</h1></center>
 	<ul class="row thumbs">
     <li class="grid-33">
-	      <a href="https://github.com/cmagesty" class="thumb-title">
+	      <a href="https://github.com/cmagesty" target="_blank" class="thumb-title">
 	        <img src="assets/github.png" alt="github propjects" />
 	        <h3>Github</h3>
 	      </a>
@@ -64,7 +64,7 @@
 <section>
 	<ul class="row thumbs">
     <li class="grid-33">
-	      <a href="https://www.linkedin.com/in/christopher-magesty-176764142/" class="thumb-title">
+	      <a href="https://www.linkedin.com/in/christopher-magesty-176764142/" target="_blank" class="thumb-title">
 	        <img src="assets/linkedin.png" alt="linked in" />
 	        <h3>linked in</h3>
 	      </a>
