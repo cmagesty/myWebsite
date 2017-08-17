@@ -634,4 +634,46 @@ footer {
       width: 100%;
       font-size: 14px; }
 
+#Iframe-Master-CC-and-Rs {
+  max-width: 512px;
+  max-height: 1024px;
+  overflow: hidden; }
+
+      /* inner wrapper: make responsive */
+  .responsive-wrapper {
+      position: relative;
+      height: 100;    /* gets height from padding-bottom */
+
+        /* put following styles (necessary for overflow and scrolling handling on mobile devices) inline in .responsive-wrapper around iframe because not stable in CSS:
+          -webkit-overflow-scrolling: touch; overflow: auto; */
+
+      }
+  .responsive-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    }
+      /* padding-bottom = h/w as % -- sets aspect ratio */
+      /* YouTube video aspect ratio */
+  .responsive-wrapper-wxh-572x612 {
+    padding-bottom: 107%;
+  }
+      /* general styles */
+      /* ============== */
+
+    /*  .set-padding {
+        padding: 40px;
+      }
+      .set-margin {
+        margin: 30px;
+      }*/
+  .center-block-horiz {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
 /*# sourceMappingURL=all.css.map */

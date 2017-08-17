@@ -77,7 +77,7 @@
       </a>
     </li>
 	    <li class="grid-33">
-	      <a href="resume" class="thumb-title">
+	      <a href="resume.html" class="thumb-title">
 	        <img src="assets/resume.png" alt="resume" />
 	        <h3>resume</h3>
 	      </a>
